@@ -1,24 +1,24 @@
 #layer1 > .line {
     fill: none;
-    stroke: aquamarine;
+    stroke: rgb(0, 255, 170);
     stroke-width: 3;
 }
 
 #layer2 > .line {
     fill: none;
-    stroke: hotpink;
+    stroke: rgb(0, 252, 239);
     stroke-width: 3;
 }
 
 /* Style the dots by assigning a fill and stroke */
 
 #layer1 > .dot {
-    fill: green;
+    fill: rgb(62, 98, 255);
     stroke: #fff;
 }
 
 #layer2 > .dot {
-    fill: violet;
+    fill: rgb(255, 1, 255);
     stroke: #fff;
 }
 
