@@ -6,7 +6,9 @@
 
 #layer2 > .line {
     fill: none;
+
     stroke: rgb(0, 252, 239);
+
     stroke-width: 3;
 }
 
