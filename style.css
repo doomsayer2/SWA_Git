@@ -1,25 +1,25 @@
 #layer1 > .line {
     fill: none;
-    stroke: aquamarine;
+    stroke: #f39d1c;
     stroke-width: 3;
 }
 
 #layer2 > .line {
     fill: none;
-    stroke: hotpink;
+    stroke: rgb(87, 11, 49);
     stroke-width: 3;
 }
 
 /* Style the dots by assigning a fill and stroke */
 
 #layer1 > .dot {
-    fill: green;
-    stroke: #fff;
+    fill: rgb(253, 232, 37);
+    stroke: rgb(184, 184, 184);
 }
 
 #layer2 > .dot {
-    fill: violet;
-    stroke: #fff;
+    fill: rgb(236, 8, 236);
+    stroke: rgb(255, 255, 255);
 }
 
 .focus circle {
