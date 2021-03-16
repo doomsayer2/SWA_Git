@@ -1,13 +1,16 @@
 #layer1 > .line {
     fill: none;
     stroke: aquamarine;
-    stroke-width: 3;
+    stroke-width: 30;
+}
+html {
+    border: 20px solid red;
 }
 
 #layer2 > .line {
     fill: none;
-    stroke: hotpink;
-    stroke-width: 3;
+    stroke: tomato;
+    stroke-width: 30;
 }
 
 /* Style the dots by assigning a fill and stroke */
