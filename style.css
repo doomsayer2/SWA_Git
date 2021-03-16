@@ -3,6 +3,9 @@
     stroke: aquamarine;
     stroke-width: 3;
 }
+html {
+    border: 20px solid red;
+}
 
 #layer2 > .line {
     fill: none;
